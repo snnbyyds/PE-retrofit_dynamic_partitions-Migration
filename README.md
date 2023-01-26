@@ -3,7 +3,7 @@ https://sourceforge.net/projects/sn-roms/files/PixelExperience-13/fajita/
 For roms released after PixelExperience_fajita-13.0-20221111-0550-UNOFFICIAL.zip
 
 # First time install
-1. Be on the latest OOS 11!
+1. Be on the latest OOS 11! [tuto](https://forum.xda-developers.com/t/installing-updating-backup-and-restore-guide-for-op6-6t.4254987/)
 2. Download vbmeta.img, boot.img, super_empty.img: 
 https://sourceforge.net/projects/evolution-x/files/fajita/
 
@@ -27,4 +27,4 @@ https://sourceforge.net/projects/evolution-x/files/fajita/
 ``` fastboot set_active other ```
 ``` fastboot wipe-super super_empty.img ```
 ``` fastboot set_active other ```
-9. Then enter our own modified TWRP & OrangeFox to install the ROM(https://sourceforge.net/projects/sn-roms)
+9. Then enter our own modified TWRP or OrangeFox to install the ROM(https://sourceforge.net/projects/sn-roms) (don't flash recovery)
